@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/example.dir/main.cpp.o -o example  _deps/glad-build/libglad.a /usr/lib/x86_64-linux-gnu/libOpenGL.so _deps/glfw-build/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl /usr/lib/x86_64-linux-gnu/libgmpxx.so /usr/lib/x86_64-linux-gnu/libmpfr.so /usr/lib/x86_64-linux-gnu/libgmp.so 
